@@ -2,6 +2,8 @@
 
 Materials in support of the "Using GPTs to Grade OSCE Notes" Workshop given at AMEE 2025 in Barcelona, Spain.
 
+***If the PDF above isn't working, you can [download the slide via Google Drive here.](https://drive.google.com/file/d/1ZtttfWqKqW5Zro0ttcc7zKc1CveGSPfH/view?usp=drivesdk)***
+
 The upcoming "Integrating Generative AI into R Workflows: From APIs to Shiny Apps" workshop materials will be available [in this repository](https://github.com/runyoncr/AIMECON_R_LLM_Workshop) after 25 October.
 
 Materials for experimenting with using LLMs to apply analytic rubrics to OSCE notes can be found [in this repository](https://github.com/runyoncr/GPT_Study_Materials). 
