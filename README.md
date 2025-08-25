@@ -2,7 +2,11 @@
 
 Materials in support of the "Using GPTs to Grade OSCE Notes" Workshop given at AMEE 2025 in Barcelona, Spain.
 
+The upcoming "Integrating Generative AI into R Workflows: From APIs to Shiny Apps" workshop materials will be available [in this repository](https://github.com/runyoncr/AIMECON_R_LLM_Workshop) after 25 October.
+
 Other AI Workshop materials can be [found in this repository](https://github.com/runyoncr/GEA_GPT_Materials).
+
+
 
 [Christopher Runyon, PhD.](https://www.linkedin.com/in/runyonchristopher/) Please email me with questions / corrections: [CRunyon@nbme.org](mailto:CRunyon@nbme.org)
 
