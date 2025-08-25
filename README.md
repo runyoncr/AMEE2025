@@ -6,7 +6,7 @@ The upcoming "Integrating Generative AI into R Workflows: From APIs to Shiny App
 
 Other AI Workshop materials can be [found in this repository](https://github.com/runyoncr/GEA_GPT_Materials).
 
-
+---
 
 [Christopher Runyon, PhD.](https://www.linkedin.com/in/runyonchristopher/) Please email me with questions / corrections: [CRunyon@nbme.org](mailto:CRunyon@nbme.org)
 
