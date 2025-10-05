@@ -4,7 +4,7 @@ Materials in support of the "Using GPTs to Grade OSCE Notes" Workshop given at A
 
 ***[You can access the slides via Google Drive here.](https://drive.google.com/file/d/1B-tkMnN79v1m6akd9N0IhquTITzGLtgF/view?usp=drivesdk)***
 
-The upcoming "Integrating Generative AI into R Workflows: From APIs to Shiny Apps" workshop materials will be available [in this repository](https://github.com/runyoncr/AIMECON_R_LLM_Workshop) after 25 October.
+The upcoming "Integrating Generative AI into R Workflows: From APIs to Shiny Apps" workshop materials will be available after 25 October.
 
 Materials for experimenting with using LLMs to apply analytic rubrics to OSCE notes can be found [in this repository](https://github.com/runyoncr/GPT_Study_Materials). 
 
